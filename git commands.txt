@@ -8,7 +8,14 @@ git commit -m"your msg" {adding files to local repo}
 
 git status
 
-git remote add origin https://github.com/Bismi478/gitcommands.git
+git remote add your msg https://github.com/Bismi478/gitcommands.git
+
+git remote -v
 
 
 --------------push------------
+
+
+git push -u your msg master
+
+add - commit - push {order}
