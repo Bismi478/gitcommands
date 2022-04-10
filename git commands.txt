@@ -5,3 +5,10 @@ git status {listing all untracked file}
 git add -A { adding files to staging medium}
 
 git commit -m"your msg" {adding files to local repo}
+
+git status
+
+git remote add origin https://github.com/Bismi478/gitcommands.git
+
+
+--------------push------------
